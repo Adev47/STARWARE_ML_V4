@@ -1,6 +1,6 @@
 CHAIR + WOOFER,online,1.00.02,chp
-CHAIR + WOOFER V2,online,1.00.01,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/MWIII_UNBRANDED_CHAIR_V1.2.exe
+CHAIR + WOOFER V2,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/MWIII_UNBRANDED_CHAIR_V1.3_1.exe
 UA + WOOFER V3,online,1.00.01,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/MW3_UA_UNBRANDED_V3.5.exe
 UA + WOOFER V3 NO RECOIL,online,1.00.01,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/MWIII_UA__NO_RECOIL.exe
 AIO + WOOFER,online,1.00.01,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/MWIII_UNBRANDED_AIO_V3.5.exe
-PRIVACY PROTECTOR,online,1.00.01,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/Privacy_Protector.exe
+PRIVACY PROTECTOR,online,1.00.01,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/Privacy_Protector.exe
